@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP3EX3</string>
+    <string name="em">@ Mail</string>
+    <string name="mdp">Mote de passe</string>
+    <string name="con">Connexion</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="pu">Profil Utilisateur</string>
+    <string name="user">Username:</string>
+    <string name="res">Resultat</string>
+    <string name="pf">Profil Facebook</string>
+    <string name="emm">Envoyer Mail</string>
+    <string name="dec">Deconnexion</string>
+</resources>
